@@ -1,5 +1,4 @@
 # Hi there.
-My name is Evgeny, I am a student of htmlAcademy.<br>A fullstack developer by profession.<br>At the moment I am working on educational projects,<br>as well as developing applications that simplify the calculation<br>of construction materials and services in the construction sector.
 
 
 ## 🌐 Socials:
